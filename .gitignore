@@ -1,0 +1,6 @@
+.idea
+META-INF/
+target/
+out/
+.gitignore.bak
+lib/
